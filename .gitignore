@@ -20,7 +20,8 @@ deploying-ai-env
 
 # AI
 .claude/
-.compound-engineering/*.local.yaml
+.compound-engineering/*
+docs/
 
 # Logs
 *.log
